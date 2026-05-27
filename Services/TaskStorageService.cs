@@ -53,7 +53,6 @@ namespace SmartTaskManager.Services
             }
             catch
             {
-                // Silently ignore - not critical for a demo app
             }
         }
     }
